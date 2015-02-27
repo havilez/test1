@@ -30,37 +30,37 @@ body {
 .sidebar {
   width: 100%;
   height: 100%;
-  padding-bottom: 14%;
-  background: url(../images/hero.png) bottom center no-repeat;
-  background-size: 80%; }
+  padding-bottom: 14%; }
   @media screen and (min-width: 760px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000358}}
     .sidebar {
       float: left;
-      width: 20%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000371}}
+      width: 20%;
+      background: url(../images/hero.png) bottom center no-repeat;
+      background-size: 80%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000373}}
   .sidebar .my-info {
     text-align: center;
     padding: 30px 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000377}}
     .sidebar .my-info .portfolio-image {
       border-radius: 50%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000381}}
     .sidebar .my-info h1, .sidebar .my-info h2 {
       font-weight: normal; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000385}}
     .sidebar .my-info h1 {
       font-size: 160%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000389}}
     .sidebar .my-info h2 {
       font-size: 100%;
       padding: 0 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\0000399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003101}}
 .social {
   width: 120px;
   margin: 0 auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003103}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003105}}
   .social a {
     float: left;
     width: 25px;
@@ -69,47 +69,47 @@ body {
     background: url(images/social-media.png) no-repeat;
     text-indent: -9999px; }
     @media screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-device-pixel-ratio: 2) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003103}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003105}}
       .social a {
         background: url(images/social-media@2x.png) no-repeat;
         background-size: 101px 51px; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003118}}
     .social a.dribbble {
       background-position: 0px 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003119}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003121}}
       .social a.dribbble:hover {
         background-position: 0px -25px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003127}}
     .social a.poopy {
       background-position: -25px 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003130}}
       .social a.poopy:hover {
         background-position: -25px -25px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003135}}
     .social a.facebook {
       background-position: -50px 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003136}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003138}}
       .social a.facebook:hover {
         background-position: -50px -25px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003141}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003143}}
     .social a.github {
       background-position: -75px 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003144}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003146}}
       .social a.github:hover {
         background-position: -75px -25px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003152}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003154}}
 .searchbar {
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003158}}
 .menus {
   text-align: center; }
   @media screen and (min-width: 760px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003158}}
     .menus {
       padding: 20px 30px; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003163}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003165}}
   .menus h3 {
     text-transform: uppercase;
     font-size: 120%;
@@ -119,14 +119,14 @@ body {
     width: 20%;
     margin: 20px 110px 10px; }
     @media screen and (min-width: 360px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003163}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003165}}
       .menus h3 {
         margin: 20px auto 20px; } }
     @media screen and (min-width: 760px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003163}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003165}}
       .menus h3 {
         margin: 20px 0 10px 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003182}}
     .menus h3:before {
       content: "";
       position: absolute;
@@ -136,33 +136,33 @@ body {
       display: block;
       background: url(images/nav-sprite.png) no-repeat; }
       @media screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-device-pixel-ratio: 2) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003182}}
         .menus h3:before {
           background: url(images/nav-sprite@2x.png) no-repeat;
           background-size: 49px 18px; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003195}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003197}}
     .menus h3.work {
       color: #f84545; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003198}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003200}}
       .menus h3.work:before {
         width: 15px;
         background-position: 0px 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003204}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003206}}
     .menus h3.about {
       color: #28948c; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003207}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003209}}
       .menus h3.about:before {
         width: 17px;
         background-position: -15px 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003213}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003215}}
     .menus h3.contact {
       color: #009dcd; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003216}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003218}}
       .menus h3.contact:before {
         width: 17px;
         background-position: -32px 0px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003226}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003228}}
 ul {
   list-style: none;
   padding: 0;
@@ -170,22 +170,22 @@ ul {
   margin: 0 135px 10px;
   text-align: left; }
   @media screen and (min-width: 760px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003226}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003228}}
     ul {
       margin: 0 0 0 25px;
       display: block;
       width: auto; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003239}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003241}}
   ul.open {
     display: inline-block;
     margin: 0 auto 10px 60px; }
     @media screen and (min-width: 760px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003239}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003241}}
       ul.open {
         margin: 0 0 0 25px;
         display: block;
         width: auto; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003251}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003253}}
   ul li a {
     color: #364347;
     text-decoration: none;
@@ -194,7 +194,7 @@ ul {
     -o-transition: color 0.4s ease;
     -ms-transition: color 0.4s ease;
     transition: color 0.4s ease; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003260}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003262}}
     ul li a:hover, ul li a.current-menu-item {
       color: #f84545;
       -webkit-transition: color 0.4s ease;
@@ -203,20 +203,20 @@ ul {
       -ms-transition: color 0.4s ease;
       transition: color 0.4s ease; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003273}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003275}}
 .content {
   width: 100%;
   min-height: 100%;
   background: #FFF; }
   @media screen and (min-width: 760px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003273}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003275}}
     .content {
       float: left;
       width: 80%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003283}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003285}}
   .content .portfolio-item {
     background: #e1eef3; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003286}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003288}}
     .content .portfolio-item:before {
       content: "";
       position: absolute;
@@ -225,10 +225,10 @@ ul {
       top: 0px;
       left: 17px;
       bottom: 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003297}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003299}}
     .content .portfolio-item.first:before {
       top: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003302}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003304}}
     .content .portfolio-item .portfolio-info {
       min-height: 100%;
       color: #5e5e5e;
@@ -238,20 +238,20 @@ ul {
       -ms-box-sizing: border-box;
       box-sizing: border-box; }
       @media screen and (min-width: 760px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003302}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003304}}
         .content .portfolio-item .portfolio-info {
           float: left;
           width: 80%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003318}}
       .content .portfolio-item .portfolio-info .date {
         font-size: 100%;
         color: #364347; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003324}}
       .content .portfolio-item .portfolio-info .title {
         font-size: 110%;
         color: #364347;
         margin-bottom: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003329}}
         .content .portfolio-item .portfolio-info .title:before {
           content: "";
           position: absolute;
@@ -262,28 +262,28 @@ ul {
           background: #f84545;
           left: -29px;
           top: 3px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003347}}
   .content .portfolio-image {
     padding: 20px;
     background: #FFF;
     border-left: 1px solid #dedede;
     text-align: center; }
     @media screen and (min-width: 760px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003347}}
       .content .portfolio-image {
         float: left;
         width: 70%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003358}}
     .content .portfolio-image img {
       width: 100%;
       max-width: 610px;
       height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003365}}
     .content .portfolio-image div.loading img {
       width: auto;
       height: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003370}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003372}}
 div.loading {
   color: #c4c4c4;
   position: absolute;
@@ -291,10 +291,10 @@ div.loading {
   bottom: 15px;
   left: 50%;
   margin-left: -50px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003380}}
   div.loading img {
     vertical-align: middle; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/havilez\/Sites\/Mean-Stack-Dev\/class3\/mean-class3-master\/site\/css\/style\.scss}line{font-family:\00003383}}
     div.loading img.rotate {
       -webkit-animation-name: rotate;
       -ms-animation-name: rotate;
